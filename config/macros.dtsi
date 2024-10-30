@@ -2,7 +2,7 @@ macro_paste: macro_paste{
 compatible = "zmk,behavior-macro";
 label = "macro_paste";
 #binding-cells = <0>;
-bindings = <&kp LEFT_COMMAND>, <&kp V>;
+bindings = ;
 };
 macro_copy: macro_copy{
 compatible = "zmk,behavior-macro";
